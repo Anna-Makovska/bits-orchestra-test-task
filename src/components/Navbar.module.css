@@ -1,0 +1,35 @@
+
+.header {
+  position: sticky;
+  top: 0;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #e5e7eb;
+  z-index: 10;
+}
+.inner {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  font-weight: 800;
+  color: #111827;
+  text-decoration: none;
+  letter-spacing: 0.2px;
+}
+.nav {
+  display: flex;
+  gap: 16px;
+}
+.link {
+  font-size: 14px;
+  color: #374151;
+  text-decoration: none;
+}
+.link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,61 @@
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 28px 18px;
+}
+.loading {
+  text-align: center;
+  padding: 40px 0;
+}
+.cards {
+  display: grid;
+  gap: 22px;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+.cardWrap {
+  position: relative;
+}
+.abs {
+  position: absolute;
+  inset: 0;
+}
+.pager {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-top: 26px;
+}
+.btn {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 8px 12px;
+  background: #fff;
+  font-weight: 600;
+}
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.pageNum {
+  padding: 8px 10px;
+  font-weight: 700;
+}
+.confirmBox {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.confirmTitle {
+  font-size: 18px;
+  font-weight: 700;
+}
+.confirmActions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+.danger {
+  background: #dc2626;
+  color: #fff;
+}

@@ -1,0 +1,236 @@
+{
+  "wishes": [
+    {
+      "id": "1",
+      "title": "MacBook Air M3",
+      "description": "Легкий ноутбук для роботи, навчання та подорожей, який витримує цілий день кодування без розетки.",
+      "price": 1200,
+      "date": "2025-10-31",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": "2",
+      "title": "Поїздка в Норвегію",
+      "description": "Подорож до фіордів, гір і північного сяйва, щоб перезавантажити голову та назбирати нові враження.",
+      "price": 900,
+      "date": "2025-10-02",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+    },
+    {
+      "id": "3",
+      "title": "Електровелосипед",
+      "description": "Міський електровелосипед, щоб швидко пересуватись містом і не стояти в заторах.",
+      "price": 2400,
+      "date": "2025-07-03",
+      "image": "https://media.istockphoto.com/id/1415313700/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B0%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%B5%D0%BB%D0%BE%D1%81%D0%B8%D0%BF%D0%B5%D0%B4%D0%B0-%D0%B2-%D1%81%D0%BF%D0%B5%D0%BA%D1%83-%D1%81%D0%BE%D0%BD%D1%86%D1%8F.jpg?s=612x612&w=0&k=20&c=BzgeeeWpSz30jJjTPruEyl2NvPoezo5sWDw4C3ke1oY="
+    },
+    {
+      "id": "4",
+      "title": "Посада Frontend розробниці",
+      "description": "У компанії Bits Orchestra",
+      "price": 800,
+      "date": "2025-11-13",
+      "image": "https://media.licdn.com/dms/image/v2/C4D0BAQFTpBuWQOjSpA/company-logo_200_200/company-logo_200_200/0/1630495932257/bits_orchestra_logo?e=2147483647&v=beta&t=k9M22yVNs4-o3WhVqh0XsiFTMnwzWvGKhOnPn1xjgJs"
+    },
+    {
+      "id": "5",
+      "title": "Курс з TypeScript Pro",
+      "description": "Просунутий курс з TypeScript, щоб писати чистий, передбачуваний і безпечний фронтенд-код.",
+      "price": 249,
+      "date": "2025-11-12",
+      "image": "https://images.unsplash.com/photo-1518770660439-4636190af475"
+    },
+    {
+      "id": "6",
+      "title": "Kindle Paperwhite",
+      "description": "Електронна читалка, яка поміщає книжкову полицю в одну легку панель.",
+      "price": 199,
+      "date": "2025-10-01",
+      "image": "https://img.jabko.ua/image/cache/catalog/products/2025/05/191004/h-(1)-1397x1397.jpg.webp"
+    },
+    {
+      "id": "8",
+      "title": "Мікрофон Shure MV7",
+      "description": "Студійний мікрофон для запису подкастів, стрімів і вокалу з чистим звуком.",
+      "price": 299,
+      "date": "2025-10-08",
+      "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba"
+    },
+    {
+      "id": "9",
+      "title": "Фітнес-браслет",
+      "description": "Гаджет, що нагадує рухатися, слідкує за кроками, пульсом і сном.",
+      "price": 149,
+      "date": "2025-10-09",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30"
+    },
+    {
+      "id": "10",
+      "title": "Навчання UI/UX",
+      "description": "Курс з продуктовим підходом, щоб проектувати зручні інтерфейси, а не тільки верстати макети.",
+      "price": 349,
+      "date": "2025-10-10",
+      "image": "https://images.unsplash.com/photo-1553877522-43269d4ea984"
+    },
+    {
+      "id": "11",
+      "title": "Квитки на концерт",
+      "description": "Вечір живої музики, щоб забути про дедлайни й зарядитися енергією.",
+      "price": 120,
+      "date": "2025-10-11",
+      "image": "https://images.unsplash.com/photo-1512427691650-1e0c2f9a81b3"
+    },
+    {
+      "id": "12",
+      "title": "Абонемент у спортзал",
+      "description": "Річний абонемент, щоб тримати тіло в тонусі й не сидіти весь день за ноутом.",
+      "price": 300,
+      "date": "2025-10-12",
+      "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438"
+    },
+    {
+      "id": "13",
+      "title": "Кавомашина",
+      "description": "Домашня еспресо-машина, яка рятує ранки й підсилює фокус під час роботи.",
+      "price": 550,
+      "date": "2025-10-13",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd"
+    },
+    {
+      "id": "14",
+      "title": "LEGO Technic Porsche",
+      "description": "Конструктор для дорослих, щоб відпочивати головою, але все одно щось будувати.",
+      "price": 799,
+      "date": "2025-10-14",
+      "image": "https://images.unsplash.com/photo-1585366119957-e9730b6d0f5d"
+    },
+    {
+      "id": "15",
+      "title": "Мандрівка в Японію",
+      "description": "Подорож країною, де поруч живуть храми, неон і поїзди, що ніколи не спізнюються.",
+      "price": 1500,
+      "date": "2025-10-15",
+      "image": "https://images.unsplash.com/photo-1505066836043-7a2ae83d1338"
+    },
+    {
+      "id": "16",
+      "title": "GoPro Hero 12",
+      "description": "Екшн-камера для зйомки подорожей, тренувань і всіх моментів, які хочеться зберегти.",
+      "price": 800,
+      "date": "2025-10-16",
+      "image": "https://images.unsplash.com/photo-1519181245277-cffeb31da2fb"
+    },
+    {
+      "id": "17",
+      "title": "Курс React Advanced",
+      "description": "Поглиблений курс по React, хуках і патернах, щоб упевнено заходити в комерційні проєкти.",
+      "price": 259,
+      "date": "2025-10-17",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c"
+    },
+    {
+      "id": "18",
+      "title": "Крісло Herman Miller",
+      "description": "Ергономічне крісло, яке тримає спину, поки ти тримаєш дедлайни.",
+      "price": 1100,
+      "date": "2025-10-18",
+      "image": "https://images.unsplash.com/photo-1524758631624-e2822e304c36"
+    },
+    {
+      "id": "19",
+      "title": "Кемпінговий намет",
+      "description": "Комфортний намет для виїздів у гори й ночівель під зорями.",
+      "price": 260,
+      "date": "2025-10-19",
+      "image": "https://images.unsplash.com/photo-1504196606672-aef5c9cefc92"
+    },
+    {
+      "id": "20",
+      "title": "Похід до Карпат",
+      "description": "Декілька днів у Карпатах з друзями, без нотифікацій і робочих чатів.",
+      "price": 300,
+      "date": "2025-10-20",
+      "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21"
+    },
+    {
+      "id": "21",
+      "title": "Графічний планшет",
+      "description": "Планшет для замальовок, UI-мокапів і приємного скетчингу ввечері.",
+      "price": 400,
+      "date": "2025-10-21",
+      "image": "https://images.unsplash.com/photo-1514933651103-005eec06c04b"
+    },
+    {
+      "id": "22",
+      "title": "Портативний SSD",
+      "description": "Швидкий зовнішній диск, щоб проєкти і бекапи завжди були під рукою.",
+      "price": 180,
+      "date": "2025-10-22",
+      "image": "https://images.unsplash.com/photo-1587202372775-98927a7c61f7"
+    },
+    {
+      "id": "23",
+      "title": "Синтезатор",
+      "description": "Компактний синтезатор для домашньої музики й експериментів зі звуком.",
+      "price": 600,
+      "date": "2025-10-23",
+      "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d"
+    },
+    {
+      "id": "24",
+      "title": "Пройти співбесіду та вийти на посаду Frontend Developer у Bits Orchestra",
+      "description": "Бажання, яке збирає всі зусилля в одну ціль — стабільну роботу фронтенд-розробницею в Bits Orchestra.",
+      "price": 0,
+      "date": "2025-10-24",
+      "image": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4"
+    },
+    {
+      "id": "25",
+      "title": "Рюкзак для подорожей",
+      "description": "Зручний міський рюкзак для ноутбука, документів і всіх речей у дорозі.",
+      "price": 130,
+      "date": "2025-10-25",
+      "image": "https://images.unsplash.com/photo-1500534314211-0a24cd02fea3"
+    },
+    {
+      "id": "26",
+      "title": "Монітор 27 4K",
+      "description": "Широкий 4K монітор для верстки, дизайну і комфортної роботи з кількома вікнами.",
+      "price": 600,
+      "date": "2025-10-26",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    },
+    {
+      "id": "27",
+      "title": "Килимок для йоги",
+      "description": "М’який килимок для розтяжки, йоги та коротких перерв між тасками.",
+      "price": 80,
+      "date": "2025-10-27",
+      "image": "https://images.unsplash.com/photo-1592432678016-e910b452f9a6"
+    },
+    {
+      "id": "28",
+      "title": "Настільна лампа для робочого столу",
+      "description": "Лампа з м’яким світлом, щоб очі не вигорали від монітора.",
+      "price": 70,
+      "date": "2025-10-28",
+      "image": "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e"
+    },
+    {
+      "id": "29",
+      "title": "Курс з англійської для IT",
+      "description": "Курс, щоб впевнено проходити співбесіди англійською й читати документацію без перекладача.",
+      "price": 220,
+      "date": "2025-10-29",
+      "image": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b"
+    },
+    {
+      "id": "30",
+      "title": "Абонемент на Spotify",
+      "description": "Преміум-доступ до музики й подкастів без реклами для роботи й відпочинку.",
+      "price": 60,
+      "date": "2025-10-30",
+      "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4"
+    }
+  ]
+}
